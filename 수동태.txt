@@ -1,0 +1,76 @@
+[능동태]
+주어가 한 행위에 집중
+I punched him - 내가 걔를 때렸다
+
+[수동태]
+목적어가 당한 행위에 집중
+He was punched by me - 걔가 내 주먹에 맞은거야
+
+[눙동태 -> 수동태]
+목적어 -> 주어, 동사 -> be PP, 주어 -> 전명구 + 주어
+- 3, 5형식일 때
+S + V + O -> O + be PP + (by + S)
+- 4형식일 때
+S + V + IO + DO -> IO + be PP + DO + (by S)
+S + V + IO + DO -> DO + be PP + 전치사 + IO + (by S)
+
+[종류]
+상태강조: be PP
+I will be married
+나는 유부녀가 될거야
+He got punched
+그는 맞았어
+
+동작강조: get PP
+I will get married
+나는 곧 결혼을 할거야
+He was punched
+그는 멍이든 상태야
+
+[형태]
+일반시제 수동태: 되다, 지다, 받다 -> be PP
+진행시제 수동태: 되는 중이다 -> be being PP
+완료시제 수동태: (과거부터 지금까지) ~ 되고 있다 -> have been PP
+
+[쓰는 이유]
+주어가 중요하지 않을 때
+
+[etc]
+be known as: ~ 으로서 알려져 있다
+Banana is known as a popular English teacher: 바나나는 인기 영어 선생으로 알려져 있다
+
+be known for: ~ 때문에 유명하다
+Arty is known for being witty: 아티는 재치 있는 것으로 유명하다
+
+be known by: ~ 에 의해서 알려져 있다
+Banana is known by many people: 많은 사람들이 바나나를 알고 있다
+
+be known to: ~ 에게 알려져 있다
+Banana is known to many people: 많은 사람들이 바나나에 대해 알고 있다
+
+be made with: (알 수 있는 재료) 만들어지다
+Kimchi is mainly mad with cabbage and chilli powder: 김치는 주로 배추와 고춧가루로 만들어진다
+
+be made of: (육안으로 안보이는 재료) 만들어지다
+Plastic is made from oil: 플라스틱은 석유로 만들어진다
+
+be related to: ~ 와 관련되다
+Domestic crimes against women are usually related to drugs and alcoholism: 여성을 향한 가정 폭력은 보통 마약과 알코올 중독과 관련이 있다
+
+be born: 태어나다
+I was born in Korea: 나는 한국에서 태어났어요
+
+be married: 결혼하다
+I've been married for over 20 years no: 나는 결혼한 지 20년도 넘었어요
+
+be gone: 사라지다
+All I have written is gone: 내가 지금껏 써온 것들이 모두 사라졌어
+
+be done: 끝내다
+I am done with this job: 나는 이 일에서 손 땠어
+
+be supposed to V: ~ 하도록 되어있다
+What am I supposed to do?: 내가 뭘 해야하는건데?
+
+be forced to V: ~ 하도록 강요받아
+Women are forced to leave work after they get pregnant: 임신 후 여성들은 직장을 떠나도록 강요받는다
