@@ -1,0 +1,29 @@
+관계대명사는 부사
+관게대명사절은 명사를 꾸며주는 형용사절
+
+Arty is Banana's boyfriend
+I met Arty yesterday
+
+I met Arty who is Banana's boyfriend yesterday: 명사 + 관계대명사 + V
+Arty, who I met yesterday, is Banana's boyfriend: 명사 + 관계대명사 + S + V
+
+관계대명사가 문장 전체를 수식할 때는 콤마를 씀
+Arty came back to Korea, which made everyone happy!: 아티는 한국에 돌아왔고 그건 모두를 행복하게 했어!
+
+whoever (S) + V = anyone who (S) + V = no matter who (S) + V = (S)가 V하는 누구라도
+Whoever said that should be responsible for it
+= Anyone who said that should be responsible for it
+= No matter who said that, they should be responsible for it
+= 그렇게 마한 사람이 누구든 그것에 대한 책임을 져야 할 것이다
+
+whichever (S) + V = anything that (S) + V = no matter which (S) + V = (S)가 V하는 뭐든지
+The chef will cook for you whichever you order
+= The chef will cook for you anything that you order
+= No matter which food you order, the chef wull cook for you
+= 니가 뭘 시키든 셰프는 널 위해 요리할 것이다.
+
+whatever (S) + V = anything that (S) + V = no matter what (S) + V = (S)가 V하는 뭐든지
+I will do whatever it takes to save your life
+= I will do anything that it takes to save your life
+= I will do no matter what it takes to save your life
+= 너를 구하기 위해서라면 어떤 일이든 할거야
