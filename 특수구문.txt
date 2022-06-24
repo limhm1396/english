@@ -1,0 +1,39 @@
+그냥 독해하면서 이해하자
+
+[부정]
+not: 아니다
+never: 절대 아니다
+neither: 둘 다 아니다
+neitehr A nor B: A도 B도 아니다
+문장 끝 neither: ~ 도 아니다
+rarely = hardly = seldom: 거의 ~ 않다
+
+few + 가산명사: 명사가 거의 없다
+a few + 가산명사: 명사가 조금 있다
+
+little + 불가산명사: 명사가 거의 없다
+a litter + 불가산명사: 명사가 조금 있다
+
+[도치]
+- 부정어 도치
+부정어를 문장의 맨 앞에 쓰면 주어와 동사의 자리를 바꿔주는 도치
+Never will I leave you, nor forsake you
+나는 결코 너를 떠나지도, 저버리지도 않을거야
+
+- 제한어 도치
+only + 부사 + V + S
+
+- 단순도치
+S + V + C -> C + V + S
+wonderful is the way I feel
+내가 느끼는 감정은 황홀함이다
+
+- as를 넣은 양보절 도치
+S + V + C -> C + as + S + V
+Rich as she is, she never takes a taxi
+그녀는 부유하지만, 결코 택시를 타는 법이 없다
+
+- 3형식 도치
+S + V + O -> O + S + V
+What I had to do, I did without hesitation
+나는 해야할 일을 주저없이 했다
