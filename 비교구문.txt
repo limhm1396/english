@@ -1,0 +1,75 @@
+[윈급비교(동등비교)]: ~ 만큼
+1. S + V + as 형용사/부사 as + S + V -> as ~ as ~ 구문
+as A as B: B만큼이나 A하다
+
+  I am rich. He is rich.
+
+  1. 형용사나 부사 앞에 as 붙이기
+  I am as rich. He is rich.
+
+  2. 뒤 문장 앞에도 as 붙이기
+  I am as rich as he is rich.
+
+  3. 똑같은 부분, 뒤 문장에서 생략하기
+  I am as rich as he is.
+
+  4. be동사일 때, 뒤 문장 동사 생략하기
+  I am as rich as he
+
+2. S + V + not as 형용사/부사 as + S + V -> not as ~ as ~ 구문
+not as A as B: B만큼이나 A하지 않다.
+I didn't like mathematics as much as English
+나는 영어만큼 수학을 좋아하지 않았어
+
+3. S + V + 배수사 as 형용사/부사 as + S + V -> 배수사 as ~ as ~ 구문
+배수사 as A as B: B보다 ~ 배 A하다
+I am three times as smart as he
+나는 그보다 세 배는 똑똑하다
+
+as long as: ~ 만큼 오래 / ~ 하는 한
+I've been here as long as you
+나는 너만큼이나 오랫동안 여기 있었어
+As long as you are happy, everything is fine
+니가 행복하다면 모든 것이 괜찮다
+
+as well as: ~ 만큼 잘 / ~ 뿐만이 아니라
+He drives as well as his brother
+그는 그의 형만큼이나 운전을 잘한다
+
+I have two computers as well as a cellphone
+나는 휴대폰뿐만 아니라 두 대의 컴푸터를 가지고 있어
+
+as much as: ~ 만큼 많이
+I eat as much as Arty.
+나는 아티만큼이나 많이 먹어
+
+as soon as: ~ 만큼 빠르게 / ~ 하자마자
+I washed the dishes as soon as I finished dinner
+나는 저녁 식사를 끝내자마자 설거지를 했어
+
+[비교금비교]: ~ 보다 더, ~ 보다 덜
+A -er than B: A는 B보다 ~ 하다
+A more ~ than B: A는 B보다 ~ 하다
+
+the + 비교급, the + 비교급: 더 ~ 할수록 더 ~ 하다
+The earlier the better: 이르면 이를수록 더 좋다
+
+비교급 and 비교급: 점점 더 ~ 하다
+As you get older, you will be busier and busier, and time goes by faster and faster
+나이가 들수록 점점 더 바빠지고, 시간은 점점 더 빨리 지나간다
+
+none the better for: ~ 한다고 해도 전혀 좋아지지 않는다
+I feel none the better for seeing a doctor
+병원에 가고도 전혀 나아지지 않았다
+
+none the worse for: ~ 한다고 해도 더 나빠지지 않는다
+I woke up feeling better the next morning, none the worse for the terrible accident las night
+지난밤 끔직한 사고에도 더 나빠지지 않고 더 좋은 컨디션으로 일어났다
+
+a rather than B: B라기보다는 A
+She is more like a guru rater than a teacher
+그녀는 선생이라기보다는 스승이야
+
+[최상급비교]: ~ 가 최고 / ~ 가 최저
+the -est: 가장 ~ 한
+the most: 가장 ~ 한
