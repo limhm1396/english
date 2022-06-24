@@ -1,0 +1,85 @@
+[모르는 상황에 대한 가정]
+If S + V(현재시제) + 주절
+만약 S가 V라면 S는 V할 것이다.
+
+If he doesn't come, I will be very upset.
+만약 그가 안온다면, 난 정말 속상할거야(그가 올지 안올지 모르는 상황)
+
+If S + have PP(현재완료) + 주절
+만약 S가 V해왔다면 S는 V할 것이다.
+If you have ever seen Parasite, you will get into Korean movies !
+만약 니가 영화 기생충을 본 적이 있다면, 한국 영화에 푹 빠질텐데 !
+
+If S + be V-ing(현재진행시제) + 주절
+만약 S가 V하는 중이라면 S는 V할 것이다.
+If he is cheating on you, it must have started a long time ago.
+만약 그가 널 두고 바람피우면, 오래전부터 그런게 분명해
+
+[모르는 과거 상황 가정]
+If S + V(과거시제) + 주절
+If he passed the exam, he must be partying.
+그가 시험에 합격했으면, 지금쯤 파티하고 있겠지(합격했는지 안했는지 모르는 상황)
+
+[가능성이 적거나 일어나지 않았으면 하는 일]
+If S + should + V + 주절
+만에 하나 S가 V하게 된다면 S는 V할텐데
+If I should fail this exam, my mom will scold me badly.
+만에 하나 시험을 망치면, 엄마는 날 엄청 혼낼거야.
+
+[일어날 확률이 거의 없는 일]
+If S + were to V + 주절
+그럴 리 없지만 S가 V한다면 S는 V할텐데
+If I were to die tomorrow, who would take care of my children?
+그럴리 없지만 내가 내일 죽는다면, 누가 우리 아이들을 돌보겠어 ?
+
+[아는 현재 사실에 반대되는 가정]
+If S + V(과거시제) + S + would/should/could/might + V
+S가 V한다면(현재 사실 반대) S는 V할텐데(현재 사실 반대 결과)
+If I had money, I wouldn't live like this.
+돈만 있었어도, 이렇게 안살텐데
+
+If S + were + S + would/should/could/might + V
+S가 were라면(현재 사실 반대) S는 V할텐데(현재 사실 반대 결과)
+If it were not raining, we could go for a walk
+비가 안오면, 공원으로 산책갔을텐데
+
+[아는 과거 사실에 반대되는 가정]
+If S + had PP + S + would/should/could/might + have PP
+S가 V했다면(과거 사실 반대) S는 V했을텐데(과거 사실 반대 결과)
+If you had not lied to me, we could have stayed happy together
+그때 너가 거짓말하지 않았더라면, 우리는 행복할 수 있었을 텐데(과거에 너는 거짓말했고, 우린 불행했다)
+
+If S + had PP + S + would/should/could/might + V
+S가 V했다면(과거 사실 반대) S는 V했을텐데(현재 사실 반대 결과)
+If I had not married you, I could be much happier.
+내가 너와 결혼하지 않았더라면, 지금 훨씬 행복하게 살텐데(과거에 결혼했고 지금 불행하다)
+
+[if 생략]
+If S + had PP -> Had + S + PP: S가 V했다면
+If S + should + V -> Should + S + V: 만에 하나 S가 V한다면
+If S + were -> Were + S: S가 were라면
+
+[etc]
+- what if: 만약에 ~ 했으면 어쩔 뻔했어 !
+- as if(= as though): 마치 ~ 인 듯이
+- if it were not for: ~ 가 없다면
+- if it had not veen for: ~ 가 없었다면
+
+- S + wish +S + V(과거시제): ~ 하다면 좋겠다(현재 사실 반대)
+I wish I had a boyfriend: 나도 남자친구가 있으면 좋겠다.
+
+- S + wish + S + had pp(과거완료시제)
+She wishes she had not told him her problems: 그녀는 그에게 자신의 문제를 말하지 않았으면 좋았겠다고 생각한다
+
+- S + 조동사 + V + 전명수
+It could be even vetter with wine
+와인화 함께라면 더욱 좋을거야
+
+- S + V + otherwise + S + would V: S는 V하다, 그렇지 않으면 S는 V할 것이다
+She doesn't understand me; otherwise, she wouldn't say that
+그녀는 나를 이해하지 못해, 그렇지 않다면 그녀가 그렇게 말하지 않았겠지
+
+- S + V + otherwise + S + would + have PP: S는 V하다, 그렇지 않았으면 S는 V했을 것이다
+I ran away: otherwise, he would have killed me
+나는 도망쳤다, 그러지 않았다면 그는 나를 죽였을 것이다.
+
